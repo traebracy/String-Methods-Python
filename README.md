@@ -1,4 +1,17 @@
-# String-Methods
-A Python project I built to strengthen my understanding of string manipulation and how text is handled programmatically. Strings are one of the most important parts of programming, and this project helped me become more comfortable working with different methods, formatting techniques, and text-based logic in Python.
+# String Methods
 
-Instead of only memorizing syntax, I wanted to actually practice applying string methods directly through code and experimentation.
+This is a Python project focused on string manipulation.
+
+I built this to practice working with text in Python and to get more comfortable using different string methods. Strings are used constantly in programming, so this project helped me understand how to format, change, and work with text-based data.
+
+## Concepts Practiced
+
+- Python strings
+- String methods
+- Text formatting
+- Basic text logic
+- Working with user input
+
+## What I Learned
+
+This project helped me build a stronger foundation with strings, which are important for almost every kind of program.
